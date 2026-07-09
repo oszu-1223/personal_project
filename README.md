@@ -5,7 +5,7 @@
 * 네트워크 서버의 취약점을 탐색하는 과정을 게임 형태로 구현한 프로그램
 * 사용자가 웹 서버, 로그인 서버, 데이터베이스 서버 중 하나를 선택하여 각 서버의 보안 항목을 검사하고, 발견된 취약점에 따라 위험 점수를 산정함
 
-#### UI 구성
+### UI 구성
 <img width="331" height="472" alt="image" src="https://github.com/user-attachments/assets/ef9a0459-8503-494a-bef7-ecea3afc0e8c" />
 
 
