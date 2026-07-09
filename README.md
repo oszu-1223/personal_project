@@ -7,6 +7,8 @@
 
 #### UI 구성
 <img width="331" height="472" alt="image" src="https://github.com/user-attachments/assets/ef9a0459-8503-494a-bef7-ecea3afc0e8c" />
+
+
 1. 웹 서버 화면
 2. 로그인 서버 화면
 3. 데이터베이스 서버 화면
