@@ -148,7 +148,7 @@ void login()
 {
     int choice;
     int security=0;
-    printf("[로그인 서버 분석]\n\n1. 비밀번호 검사\n2. 로그인 제한 검사\n3. 2차 인증 검사\n> ");
+    printf("[로그인 서버 분석]\n\n1. 비밀번호 검사\n2. 로그인 시도 제한 검사\n3. 2차 인증 검사\n> ");
     scanf("%d",&choice);
     while(choice<1 || choice>3) 
     {
