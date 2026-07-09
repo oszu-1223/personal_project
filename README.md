@@ -1,1 +1,1 @@
-# personal_project
+#네트워크 취약점 탐색 프로그램
