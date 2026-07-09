@@ -22,7 +22,7 @@
 * login : 로그인 서버의 보안 상태를 검사하는 함수
   * 비밀번호, 로그인 시도 제한, 2차 인증 항목을 선택하여 검사하고 취약점 발견 여부에 따라 위험 점수를 증가시킴
   * 1,2,3 외의 숫자를 입력했을 시 다시 입력하라는 문구를 출력함
-<img width="372" height="291" alt="image" src="https://github.com/user-attachments/assets/02757332-41f0-46e8-b533-c17c1fa600ad" />
+<img width="295" height="196" alt="image" src="https://github.com/user-attachments/assets/d4a3f4aa-063c-40dd-bfac-d138b0093a88" />
 
 * database : 데이터베이스 서버의 보안 상태를 검사하는 함수
   * 접근 권한, 데이터 암호화, 백업 보안 항목을 선택하여 검사하고 취약점 발견 여부에 따라 위험 점수를 증가시킴
